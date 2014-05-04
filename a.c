@@ -5,3 +5,10 @@ int main(void){
 
     return 1;
 }
+
+
+void u(){
+
+    printf("Remote");
+
+}
